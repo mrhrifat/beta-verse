@@ -4,5 +4,5 @@ export const metadata = Metadata
 export default function Home() {
   console.log('A')
 
-  return <h2>Bismillahir Rahmanir Rahim</h2>
+  return <h1 className="text-3xl font-bold underline">Hello world!</h1>
 }

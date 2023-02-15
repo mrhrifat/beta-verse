@@ -9,5 +9,6 @@
   "eslint.validate": ["typescript", "javascript"],
   "typescript.validate.enable": false,
   "javascript.validate.enable": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "css.lint.unknownAtRules": "ignore"
 }
