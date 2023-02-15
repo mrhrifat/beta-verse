@@ -1,0 +1,13 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true,
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "eslint.validate": ["typescript", "javascript"],
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
